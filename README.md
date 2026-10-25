@@ -1,10 +1,10 @@
 # Booth Builder catalogue
 
 The published catalogue that the Booth Builder app downloads: served by GitHub Pages at
-https://s-mireles.github.io/booth_builder_catalogue/.
+https://bisty-b.github.io/booth-builder-catalogue/.
 
 Don't edit these files by hand. The app's catalogue build writes them from the authoring catalogue
-(`tools/catalogue/build_catalogue.tscn` in the booth_builder repository; see its `docs/ADDING_CATALOGUE_ITEMS.md`):
+(`tools/catalogue/build_catalogue.tscn` in the booth-builder repository; see its `docs/ADDING_CATALOGUE_ITEMS.md`):
 
 - `catalogue.csv`: the items, with each one's pack and thumbnail, and the thumbnail pack;
 - `finishes.csv`: the colours items can be ordered in;
